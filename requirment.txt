@@ -1,0 +1,11 @@
+Instructions:  
+ 
+1. requirement.txt
+2. model training file (.ipnby)
+3. model weight ( if it's a large file it can be shared on google drive and the link should be paste)
+4. saved model ( if a large file , upload that on google drive and give the link)
+5. GUI if needed 
+6. The files should be upload in github and share github repository to us
+7. You must train your own machine learning models—using pre-trained models can also lead to disqualification.
+8. Your tasks will be evaluated not only on model accuracy but also on overall performance. Use metrics like confusion matrix, precision, and recall showcasing your model’s effectiveness.
+9. The Model should achieve minimum 70% accuracy.
